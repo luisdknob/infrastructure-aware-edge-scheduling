@@ -1,0 +1,9 @@
+# ISCC 2021 reproducibility snapshot
+Copyright 2021 Luis Augusto Dias Knob, Carlos Henrique Kayser, Tiago Ferreto
+
+This repository contains the paper-era ContainerSim simulator and the archived
+result files used for the ISCC 2021 paper "Improving Container Deployment in
+Edge Computing Using the Infrastructure Aware Scheduling Algorithm."
+
+The simulation code is derived from ContainerSim. See ERRATA.md for the
+compatibility fixes and the scenario weights used in the runnable release.

@@ -1,0 +1,5 @@
+folder,label,prov_n,prov_avg,prov_p99,prov_max,cache_hit,cache_miss,storage_min,storage_avg,storage_max,used_nodes,dist_std,dist_min,dist_max,paper_avg,paper_p99,paper_max,paper_hit,paper_miss,paper_storage_avg,paper_dist_std,paper_used_nodes
+kube,Kube-scheduler,1250,28.0385,207.2723,279.31,2042,8169,9.943,749.3142,1423.773,168,2.5728,2,12,28.03,207.27,279.31,2042,8169,749.31,2.57,168
+image,Image Locality,1250,26.5631,221.84,279.31,2618,7593,9.943,701.4063,1266.6019,168,2.6029,2,12,26.56,221.84,279.31,2618,7593,701.4,2.6,168
+layer,Layer Locality,1250,22.202,192.11,279.31,3638,6573,9.943,595.3527,1314.1619,168,2.9174,2,16,22.2,192.11,279.31,3808,6403,595.35,3.09,168
+infra,Infrastructure Aware,1250,13.4776,90.69,136.04,3776,6435,0.0,584.3129,1490.3024,150,5.54,0,16,13.47,90.69,136.04,3913,6248,584.31,5.46,150

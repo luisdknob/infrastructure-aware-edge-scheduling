@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+logs/*.log
+logs/runs/
+reports/*
+results/*
+runs/*
+fig2.png
+*.pdf
+.DS_Store
+logs/*.out

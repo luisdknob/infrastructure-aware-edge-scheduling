@@ -1,0 +1,6 @@
+INFO - scenario-3-ipe-top-50-apps-kube-scheduler-infra-aware.json
+INFO - [{'name': 'LeastRequestedPriority', 'weight': 10}, {'name': 'SelectorSpreadPriority', 'weight': 10}, {'name': 'LeastCongestedNodePriority', 'weight': 30}]
+INFO - 1622350423
+INFO - scenario-4-ipe-top-50-apps-kube-scheduler-layer-locality.json
+INFO - [{'name': 'LeastRequestedPriority', 'weight': 10}, {'name': 'SelectorSpreadPriority', 'weight': 10}, {'name': 'LayerLocalityPriority', 'weight': 30}]
+INFO - 1622350539
